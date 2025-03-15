@@ -3,3 +3,6 @@ To limit the speed of a SSH session to display VT100 files properly as they woul
 To simular 9600 bit/s (divide by 10 to get 960 B/s)
 
 `cat XXXX.vt | pv --quiet --rate-limit 960`
+
+
+Archive of VT100/ANSI drawings: http://artscene.textfiles.com/vt100/
